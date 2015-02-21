@@ -3,3 +3,8 @@ India:Mumbai/Brazil:Guarulhos/USA:California
 Brazil:Manus/India:Delhi/China:Shanghai/Japan:Tokyo
 India:Bangalore/India:Bhopal/India:Pune/India:Nagpur/India:Ooty
 India:Lucknow/USA:Newark/India:Ooty
+India:Kochi/Srilanka:Kandy/USA:Chicago/China:Beijing
+Pakistan:Islamabad/Srilanka:Colombo/USA:Chicago/India:Chennai
+India:Bangalore/India:Pune/China:Beijing/USA:Texas
+Srilanka:Colombo/Pakistan:Islamabad/Afghanistan:Kabul
+Afghanistan:Kabul/Srilanka:Colombo/Inda:Chennai
